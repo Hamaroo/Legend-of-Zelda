@@ -1,0 +1,1149 @@
+fileFormatVersion: 2
+guid: 870217396eb097a4fb09ee38a833743a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_0
+    21300002: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_1
+    21300004: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_2
+    21300006: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_3
+    21300008: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_4
+    21300010: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_5
+    21300012: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_6
+    21300014: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_7
+    21300016: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_8
+    21300018: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_9
+    21300020: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_10
+    21300022: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_11
+    21300024: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_12
+    21300026: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_13
+    21300028: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_14
+    21300030: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_15
+    21300032: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_16
+    21300034: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_17
+    21300036: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_18
+    21300038: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_19
+    21300040: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_20
+    21300042: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_21
+    21300044: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_22
+    21300046: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_23
+    21300048: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_24
+    21300050: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_25
+    21300052: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_26
+    21300054: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_27
+    21300056: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_28
+    21300058: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_29
+    21300060: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_30
+    21300062: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_31
+    21300064: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_32
+    21300066: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_33
+    21300068: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_34
+    21300070: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_35
+    21300072: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_36
+    21300074: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_37
+    21300076: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_38
+    21300078: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_39
+    21300080: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_40
+    21300082: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_41
+    21300084: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_42
+    21300086: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_43
+    21300088: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_44
+    21300090: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_45
+    21300092: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_46
+    21300094: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_47
+    21300096: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_48
+    21300098: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_49
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 775
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806a3954aa79b1048b04d58fbcbf5c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 775
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c91279cc17a4ae44b0ae84888909520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 775
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9447023d48f6140852b93b5acfc8d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 665
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c28fca6ed78b64d941dce4f412691f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 665
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b085e03d67b45b45b6637be363291fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 665
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f204f5dab8af43e4d82d2579df22e833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 554
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea2227cdeaa1784ca881b006954fdff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 443
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c262439d8dec2d5419be811125ef33d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 443
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6e1ac4103b6e4dbf83e029ed56b12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 443
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c43b5584c8bd14882d7a80e9884bde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 332
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0480d6d44eac342af50c24c8c55bef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 340
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da59a039cec77124793a2dc17d6c8c06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 332
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde60174b91fa748bf0fcdbd521d2e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 332
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76747f25b64cb244854e548b5786261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 332
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac570bc35e01f4db77df3b8bb7cb41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_15
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 332
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a4cc205e37994d9dd879ec3825f7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_16
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 340
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab9ab20891ff724cba638edcc52ce8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_17
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 332
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b371e6f266a54143b94513bc60296d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_18
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 332
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c406e7a769b2041b74fa230ee824d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_19
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 332
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc455e8fbd3294cbd0324f32baeed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 221
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc0bcc394b5d642a4ab22584bad51e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 225
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eeadc02f92cf1418efd7d0dd7b9de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 234
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21faa5eec21ef4f8daaf10cd4c5094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 225
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d718008f22e690748b4e71b7742ba690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 225
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b442712edd6da1541a0759fdb7a88b42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 221
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d8be40bba661449a6dd9f181662b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 221
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dcb572e7b5a854d86d8d20240343de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_27
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 230
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78e712421c0e39439505b9ec443dae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_28
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 230
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509b47c141abf6441807080000c7bf52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 225
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3fa479d6977da4d81844d12c536b85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 119
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a649c1553fee8644085668361caf188f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 119
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203cc30959f3f9d4fa735b7cecbefd11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_32
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 119
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076fbca2b80470c4e987b1f8d1d61eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 119
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee06fd10aac402d47bb7c020f420336e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 119
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc7e19d4b17fa49ae2096bc053e852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 119
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf7dc39b76e0d4cbb64249ce212ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_36
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 119
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef41eb9e97d37e24bb614c27a5334682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_37
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 119
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa0cddd224c204da7f0fa90e3b5bde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_38
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 114
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee095299d1a6b344b07293f80c6c31e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_39
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 119
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bdd5ab596eb734e83500c799562e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459fee2221a6a1f4490a2ae364f374a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627edcd8b95659745b4168290ac089d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91631f85cc74da41b38101562b8e4bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8becc170f1e7e348aac6cf5ab60b4b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_44
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5b35a8f3ba4df4290798c7e7a36bca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 4
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698d993bab5e0134b8022675654a61c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_46
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 4
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d5a935fb7d7de4abed55bf2dcd30dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_47
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 12
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160241e8317232e47b94c06ae091900d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_48
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 4
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5fb729f00a710468c95a4f891b9837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: link_sprite_sheet_by_tiozacdasgalaxias-dayh0s6_49
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04419e76b8413c4cbc4c9aa970bfe78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 882b699e86809b2478ec29bb2e18320b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
