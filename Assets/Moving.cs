@@ -10,7 +10,7 @@ public class Moving : MonoBehaviour {
     private Vector3 destination;
     private bool isMoving = false;
 
-    private enum direction {RIGHT,LEFT,FORWARD,BACKWARD };
+    private enum direction {SIDE,FORWARD,BACKWARD };
     private direction facing = direction.FORWARD;
 
 
@@ -28,6 +28,12 @@ public class Moving : MonoBehaviour {
     {
         float xmove = Input.GetAxisRaw("Horizontal");
         float ymove = Input.GetAxisRaw("Vertical");
+
+        //facing the correct way
+        if(xmove != 0)
+        {
+            transform.localScale = new Vector2(xmove*-4, 4);
+        }
 
         //moving
           
@@ -50,24 +56,35 @@ public class Moving : MonoBehaviour {
             {
                 if(xmove ==0 && ymove == 0)
                     isMoving = false;
-                
             }
         }
 
         //facing direction
-        if(xmove > 0) { facing = direction.RIGHT; }
-        else if (xmove < 0) { facing = direction.LEFT; }
+        if(xmove != 0) { facing = direction.SIDE; }
         else if (ymove > 0) { facing = direction.BACKWARD; }
         else if (ymove < 0) { facing = direction.FORWARD; }
 
-        if(facing == direction.RIGHT)
+        if(facing == direction.SIDE )
         {
             if(isMoving)
-                anim.SetBool("walkingRight", true);
+                anim.SetBool("walkingSide", true);
             else
-                anim.SetBool("walkingRight", false);
+                anim.SetBool("walkingSide", false);
         }
-        
+        if (facing == direction.FORWARD)
+        {
+            if (isMoving)
+                anim.SetBool("walkingForward", true);
+            else
+                anim.SetBool("walkingForward", false);
+        }
+        if (facing == direction.BACKWARD)
+        {
+            if (isMoving)
+                anim.SetBool("walkingBackward", true);
+            else
+                anim.SetBool("walkingBackward", false);
+        }
 
 
     }
